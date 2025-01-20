@@ -37,5 +37,3 @@ The script generates a CSV file named `profile_data.csv` containing the followin
 
 Still need help! 
 Email me: `vt57299@gmail.com`
-
-# NOTE : THIS SCRIPT IS FOR EDUCATIONAL PURPOSE ONLY.
